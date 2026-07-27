@@ -1,2 +1,2 @@
 # WriteUps
-inicial
+Doctotype
