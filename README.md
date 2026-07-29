@@ -1,6 +1,6 @@
 # Pentest - WriteUps
 
-Bienvenido a mi repositorio de documentación y apuntes de máquinas vulneradas en **Hack The Box**. Aquí guardo el registro de mi aprendizaje, comandos clave, vectores de ataque y metodologías utilizadas.
+Bienvenido a mi repositorio de documentación y apuntes de máquinas vulneradas. Aquí guardo el registro de mi aprendizaje, comandos clave, vectores de ataque y metodologías utilizadas.
 
 ---
 
