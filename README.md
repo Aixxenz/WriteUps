@@ -6,9 +6,9 @@ Bienvenido a mi repositorio de documentación y apuntes de máquinas vulneradas 
 
 ## 📊 Resumen de Progreso
 
-| Plataforma | Muy Facil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Total Completadas |
-| :---: | :---: | :--: | :---: | :---: | :---: |
-| **Hack The Box** | 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | **6** |
+| Plataforma | Muy Facil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
+| :---: | :---: | :--: | :---: | :---: | :---: | :--: |
+| **Hack The Box** | 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
 
 ---
 
