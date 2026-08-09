@@ -6,11 +6,11 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 ## 📊 Resumen de Progreso
 
-| Plataforma | Muy Facil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
+| Plataforma | Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
 | :---: | :---: | :--: | :---: | :---: | :---: | :--: |
 | **Hack The Box** | 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
-| **EC-COUNCIL (Practice Labs)** | N/A | 🟢 0 (Beginner) | 🟡 0 (Intermediate) | 🔴 0 (Advanced) | N/A | **0** |
-| **EC-COUNCIL (CTF's)** | N/A | 🟢 0 (Beginner) | 🟡 0 (Intermediate) | 🔴 0 (Advanced) | N/A | **0** |
+| **EC-COUNCIL (Practice Labs)** | N/A | 🟢 0 **(Beginner)** | 🟡 0 **(Intermediate)** | 🔴 0 **(Advanced)** | N/A | **0** |
+| **EC-COUNCIL (CTFs)** | N/A | 🟢 0 **(Beginner)** | 🟡 0 **(Intermediate)** | 🔴 0 **(Advanced)** | N/A | **0** |
 
 ---
 ### 🚩 EC-Council — CTF Challenges
