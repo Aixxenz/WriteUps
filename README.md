@@ -4,7 +4,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 ---
 
-## 📊 Resumen de Progreso
+## Resumen de Progreso
 
 | Plataforma | Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
 | :---: | :---: | :--: | :---: | :---: | :---: | :--: |
@@ -13,7 +13,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | **EC-COUNCIL (CTFs)** | N/A | 🟢 0 **(Beginner)** | 🟡 0 **(Intermediate)** | 🔴 0 **(Advanced)** | N/A | **0** |
 
 ---
-### 🚩 EC-Council — CTF Challenges
+### EC-Council — CTF Challenges
 
 | # | Desafío | Flags | Dificultad | Conceptos / Herramientas Clave | Writeup |
 | :-: | :--- | :-: | :-: | :--- | :-: |
@@ -21,14 +21,14 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | 02 | ChromeCracker | 6 Flags | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/CTFs/Advanced/ChromeCracker.md) |
 
 ---
-## 🔬 EC-Council — Practice Labs
+## EC-Council — Practice Labs
 | # | Laboratorio / Tema | Ejercicios | Dificultad | Categoría | Writeup |
 | :-: | :--- | :-: | :-: | :--- | :-: |
 | 01 | Intro to Supervised ML for Cyber Analytics | 2 Labs | 🟡 Intermediate | Artificial Intelligence | [Ver Apuntes](./EC-Council/Practice_Labs/Intermediate/ML_Cyber_Analytics.md) |
 | 02 | Exploiting Vulnerabilities in Google Gruyere | 4 Labs | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/Google_Gruyere.md) |
 | 03 | Advanced AI Red Teaming with PyRIT | 1 Lab | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/AI_Red_Teaming.md) |
 ---
-## 🎯 Máquinas Resueltas - Hack The Box
+## Máquinas Resueltas - Hack The Box
 
 | # | Máquina | S.O. | Dificultad | IP | Vector de Ataque / Conceptos Clave | Writeup |
 | :-: | :--- | :-: | :-: | :-: | :--- | :-: |
@@ -40,9 +40,9 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | 06 | **Responder** | 🪟 Windows | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Windows/Responder/README.md) |
 ---
 
-## 🛠️ Herramientas & Comandos Frecuentes
+## Herramientas & Comandos Frecuentes
 
-### 🔍 Reconocimiento & Escaneo
+### Reconocimiento & Escaneo
 * **Nmap (Reconocimiento):**
   ```bash
   nmap -sS -sV -Pn -p- --open <IP>
