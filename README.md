@@ -1,18 +1,26 @@
-# Pentest - WriteUps
+<h1 align=center> Pentest - WriteUps </h1> 
 
 Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguridad. Aquí mantengo un registro detallado de mi aprendizaje, entornos prácticos resueltos **(Hack The Box y EC-Council)**, comandos clave, vectores de ataque y metodologías aplicadas.
 
 ---
 
-## Resumen de Progreso
+<h1 align=center> Resumen de Progreso </h1>
 
-| Plataforma | Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
-| :---: | :---: | :--: | :---: | :---: | :---: | :--: |
-| **Hack The Box** | 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
-| **EC-COUNCIL (Practice Labs)** | N/A | 🟢 0 **(Beginner)** | 🟡 0 **(Intermediate)** | 🔴 0 **(Advanced)** | N/A | **0** |
-| **EC-COUNCIL (CTFs)** | N/A | 🟢 0 **(Beginner)** | 🟡 0 **(Intermediate)** | 🔴 0 **(Advanced)** | N/A | **0** |
+## [HTB] Hack The Box
+
+| Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
+| :---: | :--: | :---: | :---: | :---: | :--: |
+| 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
+
+## [ECC] EC-COUNCIL
+| Categoria | Beginner | Intermediate | Advanced | Tptal Completadas |
+| :---: | :---: | :---: | :--: | :--: |
+| **EC-COUNCIL (Practice Labs)** | 🟢 0  | 🟡 0  | 🔴 0  | **0** |
+| **EC-COUNCIL (CTFs)** | 🟢 0 | 🟡 0  | 🔴 0  | **0** |
 
 ---
+<h1 align=center> Entornos resueltos </h1>
+
 ### EC-Council — CTF Challenges
 
 | # | Desafío | Flags | Dificultad | Conceptos / Herramientas Clave | Writeup |
@@ -46,3 +54,4 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 * **Nmap (Reconocimiento):**
   ```bash
   nmap -sS -sV -Pn -p- --open <IP>
+---
