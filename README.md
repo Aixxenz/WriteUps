@@ -13,7 +13,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
 
 ## [ECC] EC-COUNCIL
-| Categoria | Beginner | Intermediate | Advanced | Tptal Completadas |
+| Categoria | Beginner | Intermediate | Advanced | Total Completadas |
 | :---: | :---: | :---: | :--: | :--: |
 | **EC-COUNCIL (Practice Labs)** | 🟢 0  | 🟡 0  | 🔴 0  | **0** |
 | **EC-COUNCIL (CTFs)** | 🟢 0 | 🟡 0  | 🔴 0  | **0** |
@@ -40,7 +40,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 | # | Máquina | S.O. | Dificultad | IP | Vector de Ataque / Conceptos Clave | Writeup |
 | :-: | :--- | :-: | :-: | :-: | :--- | :-: |
-| 01 | **Meow** | Linux | 🔵 Very Easy | `10.10.10.3` |  | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Meow/README.md) |
+| 01 | **Meow** | Linux | 🔵 Very Easy | `10.129.247.95` | `Telnet / Null Authentication / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Meow/README.md) |
 | 02 | **Fawn** | Linux | 🔵 Very Easy | `10.10.10.240` |  | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Fawn/README.md) |
 | 03 | **Redeemer** | Linux | 🔵 Very Easy | `10.10.10.40` | EternalBlue (MS17-010) / Metasploit | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Redeemer/README.md) |
 | 04 | **Appointment** | Linux | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Appointment/README.md) |
