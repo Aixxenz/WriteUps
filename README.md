@@ -36,7 +36,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | 02 | Exploiting Vulnerabilities in Google Gruyere | 4 Labs | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/Google_Gruyere.md) |
 | 03 | Advanced AI Red Teaming with PyRIT | 1 Lab | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/AI_Red_Teaming.md) |
 ---
-## Máquinas Resueltas - Hack The Box
+## Hack The Box
 
 | # | Máquina | S.O. | Dificultad | IP | Vector de Ataque / Conceptos Clave | Writeup |
 | :-: | :--- | :-: | :-: | :-: | :--- | :-: |
