@@ -77,26 +77,16 @@ smbclient -L 10.129.9.58
 
 Una vez dentro de la sesión de SMB en el recurso WorkShares, se listó el contenido para identificar la estructura del directorio:
 
-```bash
-ls 
-````
-# Output
 ````bash
 smb: \> ls
   Amy.J               D        0  Mon Mar 29 04:08:24 2021
   James.P             D        0  Thu Jun  3 03:38:03 2021
 ````
+![Estructura](img/Estructura_directorio.png)
 
 ## 1. Inspección del directorio Amy.J
 Se ingresó a la carpeta de Amy para verificar archivos de interés:
 
-```` bash
-cd Amy.J\
-````
-```` bash
-ls
-````
-# Output
 ```` bash
 smb: \> cd Amy.J\
 smb: \Amy.J\> ls
@@ -115,13 +105,7 @@ cd ..
 
 # 2. Inspección del directorio de James.P
 Se navegó hacia el directorio de James donde se localizó la bandera:
-````bash
-cd James.P\
-````
-````bash
-ls
-````
-# Output
+
 ````bash
 smb: \> cd James.P\
 smb: \James.P\> ls
@@ -153,7 +137,7 @@ $ cat worknotes.txt
 ````
 ![Worknotes](img/worknotes.png)
 
-Después abrimos el archivo con el comando `cat flag.txt` y conseguiremos la bandera.
+Después abrimos el archivo de la bandera con el comando `cat` y conseguiremos esta misma.
 ```` bash
 cat flag.txt
 ````
