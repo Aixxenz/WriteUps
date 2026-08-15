@@ -22,16 +22,7 @@
 ---
 
 # Herramientas utilizadas
-- `Nmap` - Herramienta de escaneo de red empleada para la identificación de servicios en la máquina objetivo mediante el comando:`nmap -sS -sV -Pn -p 23 <IP>`.
-
-  1. ``-sS (SYN Scan):`` Realiza un escaneo de sigilo (medio abierto) para determinar si el puerto está abierto sin completar el saludo de tres vías de TCP.
-  
-  2. ``-sV (Version Detection):`` Interroga al puerto para identificar la versión exacta del servicio activo.
-  
-  3. `-Pn (No Ping):` Omite la prueba ICMP inicial y asume que el host está activo para evitar que un firewall bloquee el análisis.
-  
-  4. ``-p 23:`` Restringe el escaneo únicamente al puerto objetivo para optimizar el tiempo de respuesta.
-  
+- `Nmap` - Herramienta de escaneo de red empleada para la identificación de servicios en la máquina objetivo.  
 - `Cliente Telnet` - Interacción directa con el puerto **23** para validar el acceso con el usuario `root` sin contraseña.
 - `Kali Linux` - Distribución utilizada como entorno de trabajo.
 
@@ -55,6 +46,12 @@ PORT STATE SERVICE VERSION
 23/tcp open telnet Linux telnetd
 ```
 ![Escaneo Nmap con puerto 23 abierto](img/nmap-scan.png)
+# Desglose del comando:
+
+  1. ``-sS (SYN Scan):`` Realiza un escaneo de sigilo (medio abierto) para determinar si el puerto está abierto sin completar el saludo de tres vías (Three-Way Handshake) de TCP.
+  2. ``-sV (Version Detection):`` Interroga al puerto para identificar la versión exacta del servicio activo.
+  3. `-Pn (No Ping):` Omite la prueba ICMP inicial y asume que el host está activo para evitar que un firewall bloquee el análisis.
+  4. ``-p 23:`` Restringe el escaneo únicamente al puerto objetivo para optimizar el tiempo de respuesta.
 
 ---
 
