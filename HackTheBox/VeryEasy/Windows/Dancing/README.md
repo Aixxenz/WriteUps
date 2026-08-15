@@ -86,7 +86,6 @@ smb: \> ls
   Amy.J               D        0  Mon Mar 29 04:08:24 2021
   James.P             D        0  Thu Jun  3 03:38:03 2021
 ````
-![Amy.J](img/Amy.J.png)
 
 ## 1. Inspección del directorio Amy.J
 Se ingresó a la carpeta de Amy para verificar archivos de interés:
@@ -107,16 +106,13 @@ y se obtiene el archivo con el comando `get`.
 ````bash
 get worknotes.txt
 ````
-# Output
 
-````bash
-smb: \Amy.J\> get worknotes.txt
-getting file \Amy.J\worknotes.txt of size 94 as worknotes.txt
-````
 Posteriormente, se regresó al directorio raíz con `cd .. `
 ```` bash
 cd ..
 ````
+![Amy.J](img/Amy.J.png)
+
 # 2. Inspección del directorio de James.P
 Se navegó hacia el directorio de James donde se localizó la bandera:
 ````bash
