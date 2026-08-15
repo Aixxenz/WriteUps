@@ -66,7 +66,7 @@ telnet -l root 10.129.247.95
 # Output
 ```bash
 Trying 10.129.247.95...
-Conected to 10.129.247.95.
+Connected to 10.129.247.95.
 ```
 ![Conexión remota](img/user-root-Telnet.png)
 
