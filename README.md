@@ -10,7 +10,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 | Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
 | :---: | :--: | :---: | :---: | :---: | :--: |
-| 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
+| 🔵 3 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
 
 ## [ECC] EC-COUNCIL
 | Categoria | Beginner | Intermediate | Advanced | Total Completadas |
@@ -25,16 +25,15 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 | # | Desafío | Flags | Dificultad | Conceptos / Herramientas Clave | Writeup |
 | :-: | :--- | :-: | :-: | :--- | :-: |
-| 01 | Powah | 7 Flags | 🟢 Beginner | RDP Enum / PrivEsc / PowerShell | [Ver Apuntes](./EC-Council/CTFs/Beginner/Powah.md) |
-| 02 | ChromeCracker | 6 Flags | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/CTFs/Advanced/ChromeCracker.md) |
+| 01 |  |  |  |   |  |
+
 
 ---
 ## EC-Council — Practice Labs
 | # | Laboratorio / Tema | Ejercicios | Dificultad | Categoría | Writeup |
 | :-: | :--- | :-: | :-: | :--- | :-: |
-| 01 | Intro to Supervised ML for Cyber Analytics | 2 Labs | 🟡 Intermediate | Artificial Intelligence | [Ver Apuntes](./EC-Council/Practice_Labs/Intermediate/ML_Cyber_Analytics.md) |
-| 02 | Exploiting Vulnerabilities in Google Gruyere | 4 Labs | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/Google_Gruyere.md) |
-| 03 | Advanced AI Red Teaming with PyRIT | 1 Lab | 🔴 Advanced |  | [Ver Apuntes](./EC-Council/Practice_Labs/Advanced/AI_Red_Teaming.md) |
+| 01 | | |  | | |
+
 ---
 ## Hack The Box
 
