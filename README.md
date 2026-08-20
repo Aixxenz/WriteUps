@@ -41,7 +41,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | :-: | :--- | :-: | :-: | :-: | :--- | :-: |
 | 01 | **Meow** | Linux | 🔵 Very Easy | `10.129.247.95` | `Telnet / Null Authentication / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Meow/README.md) |
 | 02 | **Fawn** | Linux | 🔵 Very Easy | `10.129.5.231` | `FTP / Anonymous Login / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Fawn/README.md) |
-| 03 | **Redeemer** | Linux | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Redeemer/README.md) |
+| 03 | **Redeemer** | Linux | 🔵 Very Easy | `10.129.25.240` | `Redis / No Auth Required / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Redeemer/README.md) |
 | 04 | **Appointment** | Linux | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Appointment/README.md) |
 | 05 | **Dancing** | Windows | 🔵 Very Easy | `10.129.9.58` | `SMB / Anonymous/Guest Acces / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Windows/Dancing/README.md) |
 | 06 | **Responder** | Windows | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Windows/Responder/README.md) |
