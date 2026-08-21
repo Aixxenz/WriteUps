@@ -10,7 +10,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 
 | Muy Fácil (Very Easy) | Fácil (Easy) | Media (Medium) | Difícil (Hard) | Insano (Insane) | Total Completadas |
 | :---: | :--: | :---: | :---: | :---: | :--: |
-| 🔵 5 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **5** |
+| 🔵 6 | 🟢 0 | 🟡 0 | 🔴 0 | 🟣 0 | **6** |
 
 ## [ECC] EC-COUNCIL
 | Categoria | Beginner | Intermediate | Advanced | Total Completadas |
@@ -44,7 +44,7 @@ Bienvenido a mi repositorio de documentación, apuntes y writeups de ciberseguri
 | 03 | **Redeemer** | Linux | 🔵 Very Easy | `10.129.25.240` | `Redis / No Auth Required / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Redeemer/README.md) |
 | 04 | **Appointment** | Linux | 🔵 Very Easy | `10.129.30.62` | `HTTP / SQL Injection / Auth Bypass` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Appointment/README.md) |
 | 05 | **Dancing** | Windows | 🔵 Very Easy | `10.129.9.58` | `SMB / Anonymous/Guest Acces / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Windows/Dancing/README.md) |
-| 06 | **Responder** | Windows | 🔵 Very Easy | `10.10.10.40` |  | [Ver Apuntes](HackTheBox/VeryEasy/Windows/Responder/README.md) |
+| 06 | **Sequel** | Linux | 🔵 Very Easy | `10.129.33.6 ` | `Mysql / Blank Password / Root / Misconfiguration` | [Ver Apuntes](HackTheBox/VeryEasy/Linux/Sequel/README.md) |
 ---
 
 ## Herramientas & Comandos Frecuentes
